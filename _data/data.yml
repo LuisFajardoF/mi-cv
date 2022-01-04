@@ -3,17 +3,17 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Luis Enrique Fajardo
     tagline: Desarrollador de Software
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: luis.fajardozap@gmail.com
-    phone: 504 97194610
+    phone: +504 97194610
     website: #do not add http://
     linkedin: 
     xing: 
@@ -25,11 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      - idiom: Inglés
-        level: Intermedio
+    pdf: http://www.africau.edu/images/default/sample.pdf 
         
     #interests:
     #  - item: Climbing
@@ -41,6 +37,11 @@ sidebar:
     #  - item: Cooking
     #    link:
 
+    
+    languages:
+      - idiom: Inglés
+        level: Básico
+
 career-profile:
     title: Perfil Profesional
     summary: |
@@ -50,6 +51,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     - degree: Ing. Sistemas Computacionales
       university: Universidad Tecnológica Centroamericana
@@ -62,6 +64,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
 experiences:
     - role: Ninguna
     #- role: Senior Software Engineer
@@ -76,32 +79,14 @@ experiences:
     #      - Bullet point
     #      - Bullet point
     
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+projects:
+    title: Proyectos
+    intro: >
+      
+    assignments:
+      - title: md2tex
+        link: "https://luisfajardof.github.io/md2tex-docs/"
+        tagline: "Aplicación desarrollada como parte del proyecto final de graduación."
 
 #publications:
     #title: Publications
@@ -130,16 +115,22 @@ skills:
 
     toolset:
       - name: C/C++
-        level: 65%
+        level: 55%
 
       - name: Javascript
-        level: 50%
-    
-    title: Idiomas
-    
-    toolset:
-      - name: Inglés
         level: 35%
+      
+      - name: SQL
+        level: 45%
+      
+      - name: Java
+        level: 45%
+      
+      - name: Python
+        level: 35%
+      
+      - name: Linux
+        level: 55%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
