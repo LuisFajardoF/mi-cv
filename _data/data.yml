@@ -28,7 +28,7 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Inglés
+      - idiom: Ingles
         level: Intermedio
         
     interests:
@@ -52,7 +52,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: Ing. Sistemas Computacionales
-      university: Universidad Tecnológica Centroamericana
+      university: Universidad Tecnologica Centroamericana
       time: 2014 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
