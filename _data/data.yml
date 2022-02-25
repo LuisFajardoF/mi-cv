@@ -72,10 +72,10 @@ experiences:
     #      - Bullet point
     
 projects:
-    title: Proyectos
-    intro: >
+    # title: Proyectos
+    # intro: >
       
-    assignments:
+    # assignments:
     #  - title: md2tex
     #    link: "https://luisfajardof.github.io/md2tex-docs/"
     #    tagline: "Aplicación desarrollada como parte del proyecto final de graduación."
