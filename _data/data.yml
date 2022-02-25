@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf 
+    pdf: # http://www.africau.edu/images/default/sample.pdf 
         
     #interests:
     #  - item: Climbing
@@ -46,21 +46,16 @@ career-profile:
     title: Perfil Profesional
     summary: |
       Soy un profesional con experiencia básica en diferentes lenguajes de programación, sistemas de gestión de datos y software libre.
-      Responsabilidad, disposición a trabajar en equipo y aprendizaje continuo son cualidades con las cuales me identifico.
+      Responsabilidad, dedicación, disposición a trabajar en equipo y aprendizaje continuo son cualidades con las cuales me identifico.
       Actualmente busco un empleo en el cual pueda llevar a la práctica mi conocimiento académico y demostrar mis habilidades personales.
 
 education:
     - degree: Ing. Sistemas Computacionales
       university: Universidad Tecnológica Centroamericana
       time: 2014 - 2021
-      # details: |
-        # Describe your study here lorem ipsum dolor sit amet, consectetuer
-        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        # sociis natoque penatibus et magnis dis parturient montes, nascetur
-        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        # pretium quis, sem.
-        #  - Bullet point
-        #  - Bullet point
+       details: |
+        Formación académica basada en conocimientos técnicos, innovación y mejora continua. Desarrollo de software, ciencia
+        de datos y administración de redes son parte de los conocimientos adquiridos.
 
 experiences:
     - role: Ninguna
@@ -81,9 +76,9 @@ projects:
     intro: >
       
     assignments:
-      - title: md2tex
-        link: "https://luisfajardof.github.io/md2tex-docs/"
-        tagline: "Aplicación desarrollada como parte del proyecto final de graduación."
+    #  - title: md2tex
+    #    link: "https://luisfajardof.github.io/md2tex-docs/"
+    #    tagline: "Aplicación desarrollada como parte del proyecto final de graduación."
 
 #publications:
     #title: Publications
