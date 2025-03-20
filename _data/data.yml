@@ -46,9 +46,9 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-      Soy un profesional con experiencia básica en diferentes lenguajes de programación, sistemas de gestión de datos y software libre.
+      Profesional con experiencia en desarrollo de sistemas informáticos, administración de sistemas de gestión de datos y adopción de software libre.
       Responsabilidad, dedicación, disposición a trabajar en equipo y aprendizaje continuo son cualidades con las cuales me identifico.
-      Actualmente busco un empleo en el cual pueda llevar a la práctica mi conocimiento académico y demostrar mis habilidades personales.
+      Actualmente me dedico al negocio familiar y a ejecutar algunos proyectos personales.
 
 education:
     - degree: Ing. Sistemas Computacionales
@@ -56,30 +56,25 @@ education:
       time: 2014 - 2021
       details: |
          Formación académica basada en conocimientos técnicos, innovación y mejora continua. Desarrollo de software, ciencia de datos y administración 
-         de redes son parte de los conocimientos adquiridos.
+         de redes fuerón parte de los conocimientos adquiridos.
 
 experiences:
-    - role: Ninguna
-    #- role: Senior Software Engineer
-    #  time: 2014 - 2015
-    #  company: Google, London
-    #  details: |
-    #    Describe your role here lorem ipsum dolor sit amet, consectetuer
-    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    #    Cum sociis natoque penatibus et magnis dis parturient montes,
-    #    nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    #    pellentesque eu, pretium quis, sem.
-    #      - Bullet point
-    #      - Bullet point
+    - role: Docente de Programación
+      time: jun 2022 - oct 2024
+      company: Liceo Militar de Honduras, San Pedro Sula
+      details: |
+        - Impartir clases de Programación y Diseño Web a alumnos de Bachillerato Profesional en Informática.
+        - Soporte técnico al sistema automático de gestiones en línea propiedad de la institución. 
+        - Elaboración de recursos pedagógicos para docentes y alumnos.
     
 projects:
-    # title: Proyectos
-    # intro: >
+    title: Proyectos
+    intro: >
       
-    # assignments:
-    #  - title: md2tex
-    #    link: "https://luisfajardof.github.io/md2tex-docs/"
-    #    tagline: "Aplicación desarrollada como parte del proyecto final de graduación."
+    assignments:
+    - title: TigerPHP
+        link: "https://github.com/LuisFajardoF/TigerPHP"
+        tagline: "Plantilla escrita en PHP para desarrollo de páginas web estáticas y dinámicas."
 
 #publications:
     #title: Publications
@@ -110,7 +105,7 @@ skills:
       - name: C/C++
         level: 55%
 
-      - name: Javascript
+      - name: PHP
         level: 35%
       
       - name: SQL
@@ -119,8 +114,8 @@ skills:
       - name: Java
         level: 45%
       
-      - name: Python
-        level: 35%
+      - name: Framework Laravel
+        level: 55%
       
       - name: Linux
         level: 55%
