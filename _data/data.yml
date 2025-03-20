@@ -71,10 +71,10 @@ projects:
     title: Proyectos
     intro: >
       
-    #assignments:
-    #- title: TigerPHP
-    #    link: "https://github.com/LuisFajardoF/TigerPHP"
-    #    tagline: "Plantilla escrita en PHP para desarrollo de páginas web estáticas y dinámicas."
+    assignments:
+        - title: TigerPHP
+          link: "https://github.com/LuisFajardoF/TigerPHP"
+          tagline: "Plantilla escrita en PHP para desarrollo de páginas web estáticas y dinámicas."
 
 #publications:
     #title: Publications
