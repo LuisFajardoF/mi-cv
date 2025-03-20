@@ -67,15 +67,15 @@ experiences:
         - Soporte técnico al sistema automático de gestiones en línea propiedad de la institución. 
         - Elaboración de recursos pedagógicos para docentes y alumnos.
     
-projects:
-    title: Proyectos
-    intro: >
-        Estos son algunos proyectos personales.
+#projects:
+    #title: Proyectos
+    #intro: >
+    #    Estos son algunos proyectos de desarrollo de .
       
-    assignments:
-        - title: TigerPHP
-          link: "https://github.com/LuisFajardoF/TigerPHP"
-          tagline: "Plantilla escrita en PHP para desarrollo de páginas web estáticas y dinámicas."
+    #assignments:
+    #    - title: TigerPHP
+    #      link: "https://github.com/LuisFajardoF/TigerPHP"
+    #      tagline: "Plantilla escrita en PHP para desarrollo de páginas web estáticas y dinámicas."
 
 #publications:
     #title: Publications
